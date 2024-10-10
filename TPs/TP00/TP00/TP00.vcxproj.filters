@@ -18,5 +18,24 @@
     <ClCompile Include="TP00.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="Color.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Color.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fragment.frag">
+      <Filter>Fichiers sources</Filter>
+    </None>
+    <None Include="vertex.vert">
+      <Filter>Fichiers sources</Filter>
+    </None>
+    <None Include="fragmentbleu.frag">
+      <Filter>Fichiers sources</Filter>
+    </None>
   </ItemGroup>
 </Project>
